@@ -14,4 +14,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/molabux/) |
 
 Let's build something awesome! 💻✨
 
-[![Talha-raj stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Talha-raj/github-readme-stats)
+![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talha-raj&show_icons=true&theme=radical)
