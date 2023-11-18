@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 ### Hi there, I'm Talha 👋
 
 I'm a React Native Developer with a knack for crafting interactive interfaces. Passionate about exploring new technologies and continuously learning. 
@@ -16,3 +13,5 @@ I'm a React Native Developer with a knack for crafting interactive interfaces. P
 Connect with me on [LinkedIn](https://www.linkedin.com/in/molabux/) | 
 
 Let's build something awesome! 💻✨
+
+[![Talha-raj stats](https://github-readme-stats.vercel.app/api/wakatime?username=Talha-raj)](https://github.com/Talha-raj/github-readme-stats)
