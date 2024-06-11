@@ -11,7 +11,7 @@ I'm a React Native Developer with a knack for crafting interactive interfaces. P
 🔭 Check out my special repository showcasing some of my work in [React Native](https://github.com/Talha-raj) 📱
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/molabux/) | 
-Check Out my [Protfolio](https://www.pollywork.com/molabux/) | 
+Check Out my [Protfolio](https://www.polywork.com/molabux/) | 
 
 Let's build something awesome! 💻✨
 
